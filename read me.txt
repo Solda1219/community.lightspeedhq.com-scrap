@@ -1,0 +1,7 @@
+https://community.lightspeedhq.com
+
+install python version 3.85
+run cmd
+py -m pip install requests
+py -m pip install bs4
+py -m pip install pandas
